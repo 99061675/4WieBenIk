@@ -1,0 +1,18 @@
+body {
+	background-color: lightblue;
+}
+img {
+	border:2px solid black;
+	margin-right: 4px 
+}
+
+#ikvaar1 {
+	float: left;
+}
+
+#ikvaar2 {
+	float: right;
+}
+#ikvaar3 {
+	float: left;
+}

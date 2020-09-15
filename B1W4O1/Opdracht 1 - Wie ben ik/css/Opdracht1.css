@@ -1,0 +1,17 @@
+body {
+    background-image: url("Background.jpg");
+    background-size: 1500px
+}
+
+h1 {
+    text-shadow:2px 2px black;
+    color:white
+}
+p {
+    text-shadow:2px 2px black;
+    color:white
+}
+h3 {
+    text-shadow:2px 2px black;
+    color:white
+}
